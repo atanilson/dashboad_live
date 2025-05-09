@@ -1,0 +1,12 @@
+panel
+jupyter
+numpy
+hvplot
+bokeh
+scikit-learn
+geopandas
+contextily
+matplotlib
+folium
+bokeh
+duckduckgo_search
